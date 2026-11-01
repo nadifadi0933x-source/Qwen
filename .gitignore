@@ -1,0 +1,9 @@
+# Runtime: full WordPress copy (downloaded from the GitHub mirror) + local preview state
+wordpress/
+
+# Node deps for the PHP-WASM preview server (package.json / lockfile stay tracked)
+.wp-run/node_modules/
+
+# Misc
+*.log
+.DS_Store
