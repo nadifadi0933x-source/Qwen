@@ -1,8 +1,14 @@
-# NightGrid — WordPress theme + live local preview
+# NightGrid — قالب وردپرس گالری تیره + پیش‌نمایش زنده
 
-یک قالب وردپرس **اورجینال** به اسم **NightGrid** (دیزاین تیره، گالری‌محور، با حال‌و‌هوای سایت‌های image-board) که در این ریپو ساخته شده و روی یک وردپرس لوکال (PHP-WASM) در حال اجراست.
+![NightGrid preview](preview-home.jpg)
 
-> ⚠️注意: این قالب 100% کد و دیزاین اورجینال است — هیچ فایل، CSS، لوگو یا تصویری از هیچ سایت ثالثی (از جمله hentaipaw.com) کپی نشده. برای استفاده نهایی حتماً از **محتوای legal و مالکیت خودتان** استفاده کنید.
+| لینک | آدرس |
+|---|---|
+| 🌐 پیش‌نمایش زنده وردپرس (PHP-WASM) | https://8080-i4gusz85tvut2ivuu5nzd.e2b.app/ |
+| 🔑 پنل ادمین | https://8080-i4gusz85tvut2ivuu5nzd.e2b.app/wp-admin/ (`admin` / `demo1234`) |
+| 📄 صفحه استاتیک showcase | `index.html` (بعد از فعال‌سازی GitHub Pages: https://nadifadi0933x-source.github.io/Qwen/) |
+| 🌿 branch فعلی | https://github.com/nadifadi0933x-source/Qwen/tree/arena/061b6379-qwen |
+
 
 ## Live preview
 
